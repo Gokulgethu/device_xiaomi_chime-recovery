@@ -110,3 +110,27 @@ BUILD_BROKEN_MISSING_REQUIRED_MODULES := true
 # include python, for ABX conversion
 TW_INCLUDE_PYTHON := true
 #
+
+# SHRP Specific
+SHRP_PATH := device/xiaomi/chime
+SHRP_MAINTAINER := hani
+SHRP_DEVICE_CODE := chime
+SHRP_OFFICIAL := false
+SHRP_INTERNAL := /sdcard
+SHRP_EXTERNAL := /sdcard1
+SHRP_OTG := /usb_otg
+SHRP_FLASH := 1
+SHRP_FLASH_MAX_BRIGHTNESS := 255
+SHRP_REC_TYPE := SAR
+SHRP_REC := /dev/block/bootdevice/by-name/recovery
+SHRP_DEVICE_TYPE := A_Only
+SHRP_EXPRESS := true
+SHRP_EXPRESS_USE_DATA := true
+SHRP_DARK := true
+
+#SHRP Addons
+
+
+
+
+
