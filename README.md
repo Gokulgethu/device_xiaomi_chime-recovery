@@ -1,6 +1,6 @@
-<h2 align="center">TWRP device configuration for POCO M3/Redmi 9T (chime)</h2>
+<h2 align="center">SHRP device configuration for POCO M3/Redmi 9T (chime)</h2>
 
-![banner-chime](https://telegra.ph/file/ed5c8cbd91ac3dd7739b3.jpg)
+![banner-image](https://raw.githubusercontent.com/itsHanibee/device_xiaomi_chime-recovery/shrp-12.1/assets/banner.png)
 
 ### Information
 
@@ -20,7 +20,6 @@ Display | IPS LCD, 400 nits (typ), 6.53 inches, 1080 x 2340 pixels, 19.5:9 ratio
 ### License
 ```
  Copyright (C) 2018 The Android Open Source Project
- Copyright (C) 2022 frstprjkt.
 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
